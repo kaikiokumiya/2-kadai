@@ -1,0 +1,14 @@
+@charset "utf-8";
+body h1 {
+    color: #F70004;
+}
+.key{
+	color: red;
+	background-color: #0046F9;
+}
+body img {
+    border: 10px dotted #208ED7;
+}
+body {
+    background-image: url(pokemon_shirts_04.jpg);
+}
